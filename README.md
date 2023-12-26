@@ -3,6 +3,10 @@
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
 
+<p align="center">
+ Experienced software developer with a specialization in back-end (Node.js) and extensive knowledge in front-end, including frameworks such as Angular and React.js. Committed to creating testable, effective, scalable and high-quality software solutions. Looking for challenging opportunities to contribute to innovative projects
+</p>
+
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=goodvandro&theme=aura&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-beta-seven-71.vercel.app/api/top-langs/?username=goodvandro&show_icons=true&theme=aura&layout=compact" />
